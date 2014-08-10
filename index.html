@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Eric Crawford - Knowledge Representation Tutorial</title>
+
+    <meta name="author" content="Eric Crawford">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link rel="stylesheet" href="css/reveal.min.css">
+    <link rel="stylesheet" href="css/theme/night.css" id="theme">
+
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/vs.css">
+
+    <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+    <script>
+      document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+    <link href="lib/css/custom.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown="slides.md"
+                 data-separator="^---Right---\n"
+                 data-vertical="^---Down---\n"
+                 data-notes="^Note:">
+        </section>
+      </div>
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.min.js"></script>
+    <script>
+      Reveal.initialize({
+        controls: false, // Display controls in the bottom right corner
+        progress: true, // Display a presentation progress bar
+        slideNumber: true, // Display the page number of the current slide
+        history: true, // Push each slide change to the browser history
+        keyboard: true, // Enable keyboard shortcuts for navigation
+        overview: true, // Enable the slide overview mode
+        center: true, // Vertical centering of slides
+        loop: false, // Loop the presentation
+        rts: false, // Change the presentation direction to be RTL
+        fragments: true, // Turns fragments on and off globally
+        embedded: false, // Presentation in a portion of the screen
+        autoSlide: 0, // Milliseconds before automatically next slide
+        autoSlideStoppable: true, // Stop auto-sliding after user input
+        mouseWheel: false, // Enable slide navigation via mouse wheel
+        hideAddressBar: true, // Hides the address bar on mobile devices
+        previewLinks: false, // Opens links in an iframe preview overlay
+        transition: "linear", // default/cube/page/concave/zoom/linear/fade/none
+        transitionSpeed: "fast", // default/fast/slow
+        backgroundTransition: "slide", // default/none/slide/concave/convex/zoom
+        viewDistance: 3, // Number of slides away from current that are visible
+        parallaxBackgroundImage: "", // Parallax background image
+        parallaxBackgroundSize: "", // Parallax background size
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 960,
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        // Bounds for smallest/largest possible scale to apply to content
+        minScale: 0.2,
+        maxScale: 2.0,
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+          // Cross-browser shim that fully implements classList - https://github.com/eligrey/classList.js/
+          {src: 'lib/js/classList.js',
+           condition: function() { return !document.body.classList; } },
+          // Interpret Markdown in <section> elements
+          {src: 'plugin/markdown/marked.js',
+           condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          {src: 'plugin/markdown/markdown.js',
+           condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          // Syntax highlight for <code> elements
+          {src: 'plugin/highlight/highlight.js', async: true,
+           callback: function() { hljs.initHighlightingOnLoad(); } },
+          // Zoom in and out with Alt+click
+          {src: 'plugin/zoom-js/zoom.js', async: true,
+           condition: function() { return !!document.body.classList; } },
+          // Speaker notes
+          {src: 'plugin/notes/notes.js', async: true,
+           condition: function() { return !!document.body.classList; } },
+          // MathJax
+          {src: 'plugin/math/math.js', async: true}
+        ]
+      });
+    </script>
+    <script src="lib/js/custom.js"></script>
+  </body>
+</html>

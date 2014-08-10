@@ -1,0 +1,16 @@
+.reveal small {
+  font-size: 50%;
+}
+
+#birkholz-params {
+  font-size: 60%;
+  line-height: 100%;
+}
+
+.secret {
+  opacity: 0;
+}
+
+.secret:hover {
+  opacity: 1;
+}
