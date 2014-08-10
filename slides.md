@@ -1,6 +1,7 @@
-### Knowledge Representation <br> with the Semantic Pointer Architecture:
+### Biologically Plausible, Human-scale<br> Knowledge Representation
 
-### Nengo Summer School 2014
+### Master's Thesis Presentation
+### Aug 14, 2014
 
 Eric Crawford <br>
 Centre for Theoretical Neuroscience<br>
