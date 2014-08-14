@@ -1,0 +1,2294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="389.90021"
+   height="255.42297"
+   id="svg9288"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="wordnet_dog.svg"
+   inkscape:export-filename="/home/eric/masters_presentation/img/wordnet_dog.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6421808"
+     inkscape:cx="189.8603"
+     inkscape:cy="137.63013"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1328"
+     inkscape:window-height="750"
+     inkscape:window-x="38"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs9290">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3893"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="presentation_clip_path">
+      <rect
+         id="rect8124"
+         height="27940"
+         width="21590"
+         y="0"
+         x="0" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14881">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14883" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14885" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14887">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14889" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14891"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15870" />
+      <feColorMatrix
+         id="feColorMatrix15872"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15874"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14893">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14895" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14897"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15876" />
+      <feColorMatrix
+         id="feColorMatrix15878"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15880"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14899">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14901" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14903"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15882" />
+      <feColorMatrix
+         id="feColorMatrix15884"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15886"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14905">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14907" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14909"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15930" />
+      <feColorMatrix
+         id="feColorMatrix15932"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15934"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14911">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14913" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14915"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15924" />
+      <feColorMatrix
+         id="feColorMatrix15926"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15928"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14917">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14919" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14921"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15918" />
+      <feColorMatrix
+         id="feColorMatrix15920"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15922"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14923">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14925" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14927"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15888" />
+      <feColorMatrix
+         id="feColorMatrix15890"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15892"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14929">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14931" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14933"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15864" />
+      <feColorMatrix
+         id="feColorMatrix15866"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15868"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14935">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14937" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14939"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15894" />
+      <feColorMatrix
+         id="feColorMatrix15896"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15898"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14941">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14943" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14945"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15906" />
+      <feColorMatrix
+         id="feColorMatrix15908"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15910"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14947">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14949" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14951"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15912" />
+      <feColorMatrix
+         id="feColorMatrix15914"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15916"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14953">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14955" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14957"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15900" />
+      <feColorMatrix
+         id="feColorMatrix15902"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix15904"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend9">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#c8c8c8;fill-rule:evenodd;stroke:#c8c8c8;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path15005"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend9R"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend9R">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path16040"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend9R-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend9R">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path16040-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Invert colors"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Invert"
+       id="filter14881-1">
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="1"
+         type="saturate"
+         id="feColorMatrix14883-8" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix14885-8" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend9Rm"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend9Rm">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#10090c;fill-rule:evenodd;stroke:#10090c;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path17007"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata9293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-20.028546,-204.08069)">
+    <g
+       transform="matrix(0.02779194,0,0,0.02779194,-17.876009,-64.99439)"
+       id="g8221"
+       class="SlideGroup"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+      <g
+         id="g8223">
+        <g
+           clip-path="url(#presentation_clip_path)"
+           class="Slide"
+           id="id1">
+          <g
+             id="g8226"
+             class="Page">
+            <g
+               id="g8228"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id3">
+                <text
+                   id="text8231"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8233"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8235"
+                       y="13766"
+                       x="7600"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8237">dog</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8239"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id4">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8242"
+                   d="m 8320,13065 531,-2123" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8244"
+                   d="m 8955,10525 -255,400 291,73 -36,-473 z" />
+              </g>
+            </g>
+            <g
+               id="g8246"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id5">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8249"
+                   d="m 8955,13500 1865,-1442" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8251"
+                   d="m 11160,11795 -448,157 184,237 264,-394 z" />
+              </g>
+            </g>
+            <g
+               id="g8253"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id6">
+                <text
+                   id="text8256"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8258"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8260"
+                       y="12041"
+                       x="8900"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8262">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8264"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id7">
+                <text
+                   id="text8267"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8269"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8271"
+                       y="11896"
+                       x="11350"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8273">canine</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8275"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id8">
+                <text
+                   id="text8278"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8280"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8282"
+                       y="10156"
+                       x="7300"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8284">domestic animal</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8286"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id9">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8289"
+                   d="m 12635,12035 833,1303" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8291"
+                   d="m 13700,13700 -116,-460 -253,162 369,298 z" />
+              </g>
+            </g>
+            <g
+               id="g8293"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id10">
+                <text
+                   id="text8296"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8298"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8300"
+                       y="12774"
+                       x="13276"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8302">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8304"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id11">
+                <text
+                   id="text8307"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8309"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8311"
+                       y="14266"
+                       x="12786"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8313">carnivore</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8315"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id12">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8318"
+                   d="m 14130,14475 -281,1413" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8320"
+                   d="m 13765,16310 235,-412 -294,-59 59,471 z" />
+              </g>
+            </g>
+            <g
+               id="g8322"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id13">
+                <text
+                   id="text8325"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8327"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8329"
+                       y="15519"
+                       x="14285"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8331">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8333"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id14">
+                <text
+                   id="text8336"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8338"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8340"
+                       y="16966"
+                       x="12687"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8342">placental</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8344"
+                       y="17677"
+                       x="12687"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8346">mammal</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8348"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id15">
+                <path
+                   style="fill:none;stroke:#0000ff"
+                   inkscape:connector-curvature="0"
+                   id="path8351"
+                   d="m 8720,14035 2078,1337" />
+                <path
+                   style="fill:#0000ff;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8353"
+                   d="m 11160,15605 -297,-370 -163,253 460,117 z" />
+              </g>
+            </g>
+            <g
+               id="g8355"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id16">
+                <text
+                   id="text8358"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8360"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8362"
+                       y="14544"
+                       x="9840"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#0000ff;stroke:none"
+                         id="tspan8364">member</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8366"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id17">
+                <text
+                   id="text8369"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8371"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8373"
+                       y="15841"
+                       x="11240"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8375">pack</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8377"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id18">
+                <text
+                   id="text8380"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8382"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8384"
+                       y="11326"
+                       x="2585"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8386">mutt</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8388"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id19">
+                <text
+                   id="text8391"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8393"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8395"
+                       y="13231"
+                       x="1650"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8397">pug</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8399"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id20">
+                <text
+                   id="text8402"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8404"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8406"
+                       y="15336"
+                       x="1350"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8408">corgi</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8410"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id21">
+                <text
+                   id="text8413"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8415"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8417"
+                       y="16466"
+                       x="4902"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8419">Mexican</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8421"
+                       y="17177"
+                       x="4902"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8423">hairless</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8425"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id22">
+                <text
+                   id="text8428"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8430"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8432"
+                       y="10356"
+                       x="4290"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8434">puppy</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8436"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id23">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8439"
+                   d="m 5445,10525 1647,2196" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8441"
+                   d="m 7350,13065 -150,-450 -240,180 390,270 z" />
+              </g>
+            </g>
+            <g
+               id="g8443"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id24">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8446"
+                   d="m 3540,11495 3425,1713" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8448"
+                   d="m 7350,13400 -335,-335 -135,268 470,67 z" />
+              </g>
+            </g>
+            <g
+               id="g8450"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id25">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8453"
+                   d="m 3005,13165 3918,482" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8455"
+                   d="m 7350,13700 -428,-204 -37,298 465,-94 z" />
+              </g>
+            </g>
+            <g
+               id="g8457"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id26">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8460"
+                   d="M 3005,15070 7037,14034" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8462"
+                   d="m 7453,13927 -473,-33 74,290 399,-257 z" />
+              </g>
+            </g>
+            <g
+               id="g8464"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id27">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8467"
+                   d="m 6715,15740 675,-1322" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8469"
+                   d="m 7585,14035 -338,333 267,136 71,-469 z" />
+              </g>
+            </g>
+            <g
+               id="g8471"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id28">
+                <text
+                   id="text8474"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8476"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8478"
+                       y="11541"
+                       x="6501"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8480">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8482"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id29">
+                <text
+                   id="text8485"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8487"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8489"
+                       y="12041"
+                       x="4801"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8491">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8493"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id30">
+                <text
+                   id="text8496"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8498"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8500"
+                       y="13141"
+                       x="4301"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8502">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8504"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id31">
+                <text
+                   id="text8507"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8509"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8511"
+                       y="14441"
+                       x="4201"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8513">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8515"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id32">
+                <path
+                   style="fill:none;stroke:#0000ff"
+                   inkscape:connector-curvature="0"
+                   id="path8518"
+                   d="m 8120,14336 433,2749" />
+                <path
+                   style="fill:#0000ff;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8520"
+                   d="m 8620,17510 78,-468 -296,47 218,421 z" />
+              </g>
+            </g>
+            <g
+               id="g8522"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id33">
+                <text
+                   id="text8525"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8527"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8529"
+                       y="18141"
+                       x="8006"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8531">genus</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8533"
+                       y="18852"
+                       x="8006"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8535">Canis</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8537"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id34">
+                <text
+                   id="text8540"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8542"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8544"
+                       y="16479"
+                       x="8670"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#0000ff;stroke:none"
+                         id="tspan8546">member</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8548"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id35">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14923)"
+                   id="text8551"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8553"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8555"
+                       y="13766"
+                       x="7601"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8557">dog</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8559"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id36">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8562"
+                   d="m 8321,13065 531,-2123" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8564"
+                   d="m 8956,10525 -255,400 291,73 -36,-473 z" />
+              </g>
+            </g>
+            <g
+               id="g8566"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id37">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8569"
+                   d="m 8956,13500 1865,-1442" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8571"
+                   d="m 11161,11795 -448,157 184,237 264,-394 z" />
+              </g>
+            </g>
+            <g
+               id="g8573"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id38">
+                <text
+                   id="text8576"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8578"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8580"
+                       y="11896"
+                       x="11351"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8582">canine</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8584"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id39">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14929)"
+                   id="text8587"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8589"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8591"
+                       y="10156"
+                       x="7301"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8593">domestic animal</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8595"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id40">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8598"
+                   d="m 12636,12035 833,1303" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8600"
+                   d="m 13701,13700 -116,-460 -253,162 369,298 z" />
+              </g>
+            </g>
+            <g
+               id="g8602"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id41">
+                <text
+                   id="text8605"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8607"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8609"
+                       y="14266"
+                       x="12787"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8611">carnivore</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8613"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id42">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8616"
+                   d="m 14131,14475 -281,1413" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8618"
+                   d="m 13766,16310 235,-412 -294,-59 59,471 z" />
+              </g>
+            </g>
+            <g
+               id="g8620"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id43">
+                <text
+                   id="text8623"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8625"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8627"
+                       y="16966"
+                       x="12688"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8629">placental</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8631"
+                       y="17677"
+                       x="12688"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#000000;stroke:none"
+                         id="tspan8633">mammal</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8635"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id44">
+                <path
+                   style="fill:none;stroke:#0000ff"
+                   inkscape:connector-curvature="0"
+                   id="path8638"
+                   d="m 8721,14035 2078,1337" />
+                <path
+                   style="fill:#0000ff;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8640"
+                   d="m 11161,15605 -297,-370 -163,253 460,117 z" />
+              </g>
+            </g>
+            <g
+               id="g8642"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id45">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14941)"
+                   id="text8645"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8647"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8649"
+                       y="15841"
+                       x="11241"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8651">pack</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8653"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id46">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14893)"
+                   id="text8656"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8658"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8660"
+                       y="11326"
+                       x="2586"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8662">mutt</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8664"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id47">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14899)"
+                   id="text8667"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8669"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8671"
+                       y="13231"
+                       x="1651"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8673">pug</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8675"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id48">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14905)"
+                   id="text8678"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8680"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8682"
+                       y="15336"
+                       x="1351"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8684">corgi</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8686"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id49">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14911)"
+                   id="text8689"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8691"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8693"
+                       y="16466"
+                       x="4903"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8695">Mexican</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8697"
+                       y="17177"
+                       x="4903"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8699">hairless</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8701"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id50">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14887)"
+                   id="text8704"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8706"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8708"
+                       y="10356"
+                       x="4291"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8710">puppy</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8712"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id51">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8715"
+                   d="m 5446,10525 1647,2196" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8717"
+                   d="m 7351,13065 -150,-450 -240,180 390,270 z" />
+              </g>
+            </g>
+            <g
+               id="g8719"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id52">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8722"
+                   d="m 3541,11495 3425,1713" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8724"
+                   d="m 7351,13400 -335,-335 -135,268 470,67 z" />
+              </g>
+            </g>
+            <g
+               id="g8726"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id53">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8729"
+                   d="m 3006,13165 3918,482" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8731"
+                   d="m 7351,13700 -428,-204 -37,298 465,-94 z" />
+              </g>
+            </g>
+            <g
+               id="g8733"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id54">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8736"
+                   d="M 3006,15070 7038,14034" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8738"
+                   d="m 7454,13927 -473,-33 74,290 399,-257 z" />
+              </g>
+            </g>
+            <g
+               id="g8740"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id55">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8743"
+                   d="m 6716,15740 675,-1322" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8745"
+                   d="m 7586,14035 -338,333 267,136 71,-469 z" />
+              </g>
+            </g>
+            <g
+               id="g8747"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id56">
+                <path
+                   style="fill:none;stroke:#0000ff"
+                   inkscape:connector-curvature="0"
+                   id="path8750"
+                   d="m 8121,14336 433,2749" />
+                <path
+                   style="fill:#0000ff;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8752"
+                   d="m 8621,17510 78,-468 -296,47 218,421 z" />
+              </g>
+            </g>
+            <g
+               id="g8754"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id57">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14917)"
+                   id="text8757"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8759"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8761"
+                       y="18141"
+                       x="8007"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8763">genus</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8765"
+                       y="18852"
+                       x="8007"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8767">Canis</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8769"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id58">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8772"
+                   d="m 8321,13065 531,-2123" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8774"
+                   d="m 8956,10525 -255,400 291,73 -36,-473 z" />
+              </g>
+            </g>
+            <g
+               id="g8776"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id59">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8779"
+                   d="m 8956,13500 1865,-1442" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8781"
+                   d="m 11161,11795 -448,157 184,237 264,-394 z" />
+              </g>
+            </g>
+            <g
+               id="g8783"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id60">
+                <text
+                   id="text8786"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8788"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8790"
+                       y="13052"
+                       x="10212"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8792">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8794"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id61">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14935)"
+                   id="text8797"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8799"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8801"
+                       y="11896"
+                       x="11351"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8803">canine</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8805"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id62">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8808"
+                   d="m 12636,12035 833,1303" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8810"
+                   d="m 13701,13700 -116,-460 -253,162 369,298 z" />
+              </g>
+            </g>
+            <g
+               id="g8812"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id63">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14953)"
+                   id="text8815"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8817"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8819"
+                       y="14266"
+                       x="12787"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8821">carnivore</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8823"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id64">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8826"
+                   d="m 14131,14475 -281,1413" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8828"
+                   d="m 13766,16310 235,-412 -294,-59 59,471 z" />
+              </g>
+            </g>
+            <g
+               id="g8830"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id65">
+                <text
+                   style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter14947)"
+                   id="text8833"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:635px;font-weight:400;fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Arial, sans-serif'"
+                     id="tspan8835"
+                     font-weight="400"
+                     font-size="635px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8837"
+                       y="16966"
+                       x="12688"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8839">placental</tspan>
+                    </tspan>
+                    <tspan
+                       id="tspan8841"
+                       y="17677"
+                       x="12688"
+                       class="TextPosition"
+                       style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+                      <tspan
+                         style="fill:#e6e8e8;fill-opacity:1;stroke:#e6e6e8;stroke-width:28.21297836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                         id="tspan8843">mammal</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8845"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id66">
+                <path
+                   style="fill:none;stroke:#0000ff"
+                   inkscape:connector-curvature="0"
+                   id="path8848"
+                   d="m 8721,14035 2078,1337" />
+                <path
+                   style="fill:#0000ff;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8850"
+                   d="m 11161,15605 -297,-370 -163,253 460,117 z" />
+              </g>
+            </g>
+            <g
+               id="g8852"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id67">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8855"
+                   d="m 3541,11495 3425,1713" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8857"
+                   d="m 7351,13400 -335,-335 -135,268 470,67 z" />
+              </g>
+            </g>
+            <g
+               id="g8859"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id68">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8862"
+                   d="m 3006,13165 3918,482" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8864"
+                   d="m 7351,13700 -428,-204 -37,298 465,-94 z" />
+              </g>
+            </g>
+            <g
+               id="g8866"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id69">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8869"
+                   d="M 3006,15070 7038,14034" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8871"
+                   d="m 7454,13927 -473,-33 74,290 399,-257 z" />
+              </g>
+            </g>
+            <g
+               id="g8873"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id70">
+                <path
+                   style="fill:none;stroke:#ff0000"
+                   inkscape:connector-curvature="0"
+                   id="path8876"
+                   d="m 6716,15740 675,-1322" />
+                <path
+                   style="fill:#ff0000;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8878"
+                   d="m 7586,14035 -338,333 267,136 71,-469 z" />
+              </g>
+            </g>
+            <g
+               id="g8880"
+               class="com.sun.star.drawing.TextShape">
+              <g
+                 id="id71">
+                <text
+                   id="text8883"
+                   class="TextShape">
+                  <tspan
+                     style="font-size:494px;font-weight:400;font-family:'Arial, sans-serif'"
+                     id="tspan8885"
+                     font-weight="400"
+                     font-size="494px"
+                     class="TextParagraph">
+                    <tspan
+                       id="tspan8887"
+                       y="15373"
+                       x="5695"
+                       class="TextPosition">
+                      <tspan
+                         style="fill:#ff0000;stroke:none"
+                         id="tspan8889">class</tspan>
+                    </tspan>
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g8891"
+               class="com.sun.star.drawing.LineShape">
+              <g
+                 id="id72">
+                <path
+                   style="fill:none;stroke:#0000ff"
+                   inkscape:connector-curvature="0"
+                   id="path8894"
+                   d="m 8121,14336 433,2749" />
+                <path
+                   style="fill:#0000ff;stroke:none"
+                   inkscape:connector-curvature="0"
+                   id="path8896"
+                   d="m 8621,17510 78,-468 -296,47 218,421 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
